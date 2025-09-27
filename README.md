@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**luisecab/luisecab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a side project and looking for financial freedom.
 - 🌱 I’m currently learning vibe coding and saas applications.
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ig@lvixs tel@lvixs93 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: funny not funny
--->
+
