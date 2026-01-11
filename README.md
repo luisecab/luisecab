@@ -53,6 +53,4 @@ He/Him
 
 ---
 
-### ⚡ Fun fact
-I’ve worked in both **corporate giants (P&G, Mercado Libre)** and **startups (Foxtrot/Descartes, FREENOW)** — I enjoy building bridges between structured processes and fast execution.  
-Also: *funny not funny*.  
+### ⚡ Brain tumor survivor
