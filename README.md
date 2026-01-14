@@ -42,9 +42,7 @@ I’m **Luis Cabrera**, a Product & Growth professional with a strong background
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/luisecab/)  
-- Email: **luisecab93@gmail.com**  
-- Instagram/Twitter: **@lvixs**  
-- Tel: **@lvixs93**  
+- luiscabrera.me
 
 ---
 
