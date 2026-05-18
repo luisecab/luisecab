@@ -1,78 +1,60 @@
-## Hi there 👋  
+## Hi, I'm Luis Cabrera
 
-I'm **Luis Cabrera**, a Product professional with a strong background in **CRM, SaaS, and data-driven platforms**. Currently based in Warsaw, I work at **Procter & Gamble** as a **Technical Product Manager**, leading initiatives in **CRM tech (Braze, Segment), media optimization, and advanced analytics**.  
+I'm a Technical Product Manager based in Warsaw, focused on CRM, SaaS, data platforms, and AI-enabled workflows. At Procter & Gamble, I work across CRM technology, media optimization, and advanced analytics, turning complex systems into practical product outcomes.
 
----
+I like building where product, data, and automation meet: MarTech platforms, growth systems, analytics pipelines, and personal AI agents that actually get used.
 
-### 🤖 Agentic Journey
+### Current Focus
 
-Over the past year I've been building and running personal AI agents — moving from cloud-hosted bots to fully local, GPU-accelerated multi-agent systems.
+- Building and shipping AI-assisted products with a stronger bias toward finished work.
+- Moving personal automation from cloud-hosted experiments to local, self-hosted AI infrastructure.
+- Applying my MSc in Big Data and Advanced Analytics from the Warsaw School of Economics to practical product and automation problems.
+- Exploring SaaS monetization, data platform architecture, and agentic product workflows.
+- Getting more hands-on with code, closer to implementation details, and stronger on the technical foundations needed to push agentic frameworks forward.
 
-**Clawdbot — WhatsApp AI assistant**  
-Started as a Node.js WhatsApp gateway on EC2, evolved into a multi-agent orchestration layer. Now migrating to a local Yahboom Jetson Orin Nano Super 8GB as a self-hosted AI compute node.  
+### Agentic Journey
+
+Over the past year, I've been building personal AI agents and automation systems, moving from cloud-hosted bots to local, GPU-accelerated multi-agent workflows.
+
+**Clawdbot - WhatsApp AI assistant**  
+A Node.js WhatsApp gateway that evolved into a multi-agent orchestration layer. It is migrating from EC2 toward a local Yahboom Jetson Orin Nano Super 8GB setup as a self-hosted AI compute node.
+
 `Node.js` `Ollama` `PM2` `Tailscale` `Cloudflare Tunnel` `OpenAI Proxy`
 
 **Multi-agent architecture**  
-11-agent system adapted from the My-Brain-Is-Full-Crew framework — 8 reused agents + 3 custom ones: devops, clawdbot-mgr, and researcher. Tasks are routed across local Ollama models, a flat-rate OpenAI OAuth proxy, and Anthropic API for hard reasoning.
+An 11-agent system adapted from the My-Brain-Is-Full-Crew framework, combining reused agents with custom devops, Clawdbot manager, and researcher agents. Tasks are routed across local Ollama models, OpenAI access, and Anthropic API when harder reasoning is needed.
 
-**Local AI compute setup**  
-- Jetson Orin Nano Super 8GB + 500GB NVMe SSD replacing EC2 entirely  
-- GPU-accelerated Ollama backend (llama3.2 / qwen2.5)  
-- Remote access via Tailscale SSH + Cloudflare Tunnel for webhooks  
-- Managed via Termius on mobile — mobile-first workflow throughout  
+**Other experiments**
 
-**Other agent experiments**  
-- **Polymarket betting agent** — Python + Docker Compose + py-clob-client, paper-trading first approach  
-- **Claude Code CLI with autonomous loops** — mobile-first via Termius → EC2 → tmux  
-- **FotoSeller** — AI product photography pipeline for MercadoLibre/Amazon sellers (Gemini, Ideogram, Claude Vision)  
+- **Polymarket betting agent:** Python, Docker Compose, and `py-clob-client`, starting with paper trading.
+- **Autonomous coding loops:** Claude Code CLI workflows controlled from mobile through SSH and tmux.
+- **FotoSeller:** AI product photography pipeline for MercadoLibre and Amazon sellers using Gemini, Ideogram, and Claude Vision.
+- **Portal Trax:** First Android app experiment, built while leveraging Claude skills to learn mobile foundations and ship a practical workflow.
 
----
+### What I Bring
 
-### 🚀 What I Do
-- **Product & Growth:** Building roadmaps, driving adoption, and optimizing engagement across digital platforms.  
-- **Data & Analytics:** SQL, BigQuery, GCP, PowerBI, APIs — using data to unlock insights and efficiency.  
-- **Ways of Working:** Agile/Scrum, Kanban, and scaling global projects.  
+- **Product and growth:** Roadmaps, adoption, engagement, experimentation, and global stakeholder alignment.
+- **Data and analytics:** SQL, BigQuery, GCP, Power BI, APIs, dashboards, and insight-to-action workflows.
+- **MarTech and CRM:** Braze, Segment, lifecycle messaging, audience strategy, and platform operations.
+- **Ways of working:** Agile, Scrum, Kanban, and practical delivery habits for cross-functional teams.
 
----
+### Open to Collaborate On
 
-### 🌱 What I'm Learning
-- SaaS product development & monetization models  
-- Cloud architecture for data platforms  
-- AI agents, local LLM inference & multi-agent orchestration  
-- MSc in Big Data & Advanced Analytics — Warsaw School of Economics  
+- Hands-on product development with AI and agentic frameworks.
+- Workflow automation, AI agents, and practical developer tools.
+- SaaS, MarTech, CRM, and growth products where product thinking meets implementation.
+- Projects where I can get closer to code, learn the foundations, contribute clearly, and help ship.
 
----
+### Ask Me About
 
-### 👯 Open to Collaborations
-- Projects in SaaS / MarTech tools  
-- Data analytics pipelines  
-- Growth & engagement platforms  
-- Any project where I can **learn more** and contribute  
+- Product strategy and analytics.
+- CRM, growth, and SaaS.
+- Personal AI agents and local LLM workflows.
+- Career pivots, resilience, and building momentum after hard resets.
 
----
+### Connect
 
-### 🔭 Current Focus
-- Working on a **side project** with the long-term goal of achieving **financial freedom**.  
-- Looking for help with **locking in & shipping** projects consistently.  
+- [LinkedIn](https://www.linkedin.com/in/luisecab/)
+- [luiscabrera.me](https://luiscabrera.me)
 
----
-
-### 💬 Ask Me About
-- Life, career, and general topics  
-- Product strategy & analytics  
-- Growth in tech & SaaS  
-
----
-
-### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/luisecab/)  
-- luiscabrera.me
-
----
-
-### 😄 Pronouns
-He/Him  
-
----
-
-### ⚡ Brain tumor survivor
+Brain tumor survivor.
