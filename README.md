@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=170&section=header&text=LUIS%20CABRERA&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%20AGENTIC%20SYSTEMS%20%C3%97%20DATA%20%C3%97%20CRM&descSize=15&descAlignY=70&descColor=8FB8DE" width="100%" alt="Luis Cabrera" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+  <img src="assets/banner-dark.svg" width="100%" alt="Luis Cabrera — Software Engineer | AI agents × mobile × data" />
+</picture>
 
 <br/>
 
@@ -41,7 +45,7 @@ Software Engineer at P&G, working on lifecycle messaging and the data behind it.
 
 ### Personal Agents
 
-Building and running **Hermes**, my own AI agent, on a Hetzner server.
+Running **Hermes** and an 11-agent crew on my own infrastructure. Details in 02.
 
 `Node.js` `Python` `PM2` `Tailscale`
 
@@ -151,6 +155,9 @@ flowchart LR
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,nodejs,docker,gcp,cloudflare,linux" alt="Stack" />
 
+<details>
+<summary><b>Full stack by area</b></summary>
+
 ### Agents & AI
 
 `Ollama` · `OpenAI API` · `Anthropic API` · `Claude Code`
@@ -170,6 +177,8 @@ flowchart LR
 ### Infra
 
 `Docker Compose` · `PM2` · `Tailscale` · `Cloudflare Tunnel`
+
+</details>
 
 </div>
 

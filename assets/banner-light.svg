@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Luis Cabrera. Software Engineer. AI agents, mobile, data.">
+  <rect width="1000" height="260" rx="14" fill="#EEF3F9"/>
+  <g stroke="#BFD0E3" stroke-width="2" fill="none">
+    <path d="M846 80 L 886 80"/>
+    <path d="M900 80 C 925 80, 930 40, 960 40"/>
+    <path d="M900 80 L 960 80"/>
+    <path d="M900 80 C 925 80, 930 120, 960 120"/>
+  </g>
+  <circle cx="846" cy="80" r="5" fill="#93AACA"/>
+  <circle cx="900" cy="80" r="12" fill="none" stroke="#1F6FEB" stroke-width="2"/>
+  <circle cx="900" cy="80" r="4.5" fill="#1F6FEB"/>
+  <circle cx="960" cy="40" r="7" fill="#93AACA"/>
+  <circle cx="960" cy="80" r="7" fill="#93AACA"/>
+  <circle cx="960" cy="120" r="7" fill="#1F6FEB"/>
+  <text x="56" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="1.5" fill="#0D1B2A">LUIS CABRERA</text>
+  <text x="58" y="190" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="2" fill="#3F5B7D">SOFTWARE ENGINEER  ·  AI AGENTS × MOBILE × DATA</text>
+</svg>
