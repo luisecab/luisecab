@@ -8,22 +8,25 @@
 
 <br/>
 
-<a href="https://luiscabrera.me">
+<a href="https://www.luiscabrera.me">
   <img src="https://img.shields.io/badge/Website-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
 <a href="https://www.linkedin.com/in/luisecab/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://adoptsi.si">
+  <img src="https://img.shields.io/badge/AdoptSI-111111?style=for-the-badge&logoColor=white" alt="AdoptSI" />
 </a>
 
 </div>
 
 <br/>
 
-> ### I build AI agents and the software around them.
+> ### From product to software & agentic engineering.
 
-Software engineer at **P&G**, based in **Warsaw, Poland**.
+Product-minded software engineer at **P&G**, based in **Warsaw, Poland**.
 
-I work on messaging and CRM data platforms by day, and run my own agent infrastructure the rest of the time, getting closer to the implementation details and technical foundations of agentic frameworks.
+I started in operations and product across Mexico, moved from defining products to building them in 2025, and now build and orchestrate teams of AI agents. What drives me: AI systems that are reliable, testable, and affordable enough to solve real problems every day.
 
 ---
 
@@ -33,21 +36,21 @@ I work on messaging and CRM data platforms by day, and run my own agent infrastr
 <tr>
 <td width="50%" valign="top">
 
-### Messaging & CRM
+### Mobile Engineering
 
-Software Engineer at P&G, working on lifecycle messaging and the data behind it.
+Software Engineer at P&G. Building and maintaining app features, integrating backend APIs, and working on reliability and performance.
 
-`Braze` `Segment` `BigQuery` `GCP`
+`Flutter` `Dart`
 
 </td>
 
 <td width="50%" valign="top">
 
-### Personal Agents
+### [AdoptSI](https://adoptsi.si)
 
-Running **Hermes** and an 11-agent crew on my own infrastructure. Details in 02.
+My company. AI agents for traditional businesses, plus websites and MCP servers that help SMBs integrate with AI.
 
-`Node.js` `Python` `PM2` `Tailscale`
+`AI Agents` `MCP` `Automation`
 
 </td>
 </tr>
@@ -55,11 +58,9 @@ Running **Hermes** and an 11-agent crew on my own infrastructure. Details in 02.
 <tr>
 <td colspan="2" valign="top">
 
-### Mobile
+### Agentic Engineering
 
-Building mobile apps with Flutter and Dart.
-
-`Flutter` `Dart`
+Running **Hermes** and an 11-agent crew on my own infrastructure. Details in 02.
 
 </td>
 </tr>
@@ -99,6 +100,18 @@ Adapted from the My-Brain-Is-Full-Crew framework, combining reused agents with c
 <tr>
 <td width="50%" valign="top">
 
+### [`FotoReady`](https://foto-ready.luisecab93.workers.dev/landing)
+
+**AI product photography · MVP**
+
+Turns a single amateur product photo into marketplace-ready listing images for small sellers in Mexico.
+
+`React` `TypeScript` `Supabase` `Gemini AI`
+
+</td>
+
+<td width="50%" valign="top">
+
 ### `Polymarket agent`
 
 **Betting agent · paper trading**
@@ -106,18 +119,6 @@ Adapted from the My-Brain-Is-Full-Crew framework, combining reused agents with c
 Starting with paper trading before anything live.
 
 `Python` `Docker Compose` `py-clob-client`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `FotoSeller`
-
-**AI product photography · experiment**
-
-Image pipeline for MercadoLibre and Amazon sellers.
-
-`Gemini` `Ideogram` `Claude Vision`
 
 </td>
 </tr>
@@ -153,26 +154,30 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,nodejs,docker,gcp,cloudflare,linux" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,nodejs,ts,react,supabase,docker,gcp,cloudflare" alt="Stack" />
 
 <details>
 <summary><b>Full stack by area</b></summary>
 
-### Agents & AI
-
-`Ollama` · `OpenAI API` · `Anthropic API` · `Claude Code`
-
-### Data
-
-`SQL` · `BigQuery` · `GCP` · `Power BI` · `APIs`
-
-### Messaging & CRM
-
-`Braze` · `Segment` · `Lifecycle messaging`
-
 ### Mobile
 
 `Flutter` · `Dart`
+
+### Agents & AI
+
+`Ollama` · `OpenAI API` · `Anthropic API` · `Gemini` · `Claude Code` · `MCP`
+
+### Web
+
+`React` · `TypeScript` · `Supabase`
+
+### Data
+
+`SQL` · `BigQuery` · `GCP` · `Power BI` · `Tableau`
+
+### CRM & Messaging
+
+`Braze` · `Segment` · `Lifecycle messaging`
 
 ### Infra
 
@@ -187,19 +192,23 @@ flowchart LR
 ## 04 · Career
 
 ```text
-2025 — now   P&G     Software Engineer, Messaging & CRM
-2024 — 2025  P&G     IT Product Manager, Media Optimization
-2022 — 2024  P&G     Initiative Operations Project Leader, Braun
+2025 — now   P&G               Software Engineer, Mobile (Flutter/Dart)
+2023 — 2025  P&G               Product Manager, global CRM & messaging
+2021 — 2022  Foxtrot Systems   Account Product Manager
+2020 — 2021  Mercado Libre     Product, Shipping
+2019 — 2020  FREENOW (Beat)    Operations / Project Specialist
 ```
 
-**SGH Warsaw School of Economics**
-MSc, Big Data & Advanced Analytics (2025)
+**SGH Warsaw School of Economics** · MSc Big Data & Advanced Analytics (2023 — 2025)<br/>
+**National Polytechnic Institute** · BS Industrial Engineering (2013 — 2018)
+
+<sub>Hackathon: Junction 2025, Espoo, Finland</sub>
 
 ---
 
 ## 05 · Ask Me About
 
-`AI agents` · `local LLM workflows` · `CRM & messaging data platforms`
+`AI agents` · `Flutter & Dart` · `local LLM workflows` · `CRM & messaging platforms`
 
 **Career pivots, resilience, and building momentum after hard resets.** I'm a brain tumor survivor.
 
@@ -209,11 +218,14 @@ MSc, Big Data & Advanced Analytics (2025)
 
 <div align="center">
 
-<a href="https://luiscabrera.me">
+<a href="https://www.luiscabrera.me">
   <img src="https://img.shields.io/badge/Website-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
 <a href="https://www.linkedin.com/in/luisecab/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://adoptsi.si">
+  <img src="https://img.shields.io/badge/AdoptSI-111111?style=for-the-badge&logoColor=white" alt="AdoptSI" />
 </a>
 
 <br/><br/>
