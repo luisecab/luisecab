@@ -1,54 +1,214 @@
-## Hi, I'm Luis Cabrera
+<div align="center">
 
-Software engineering and agentic systems.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1B2A&height=170&section=header&text=LUIS%20CABRERA&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%7C%20AGENTIC%20SYSTEMS%20%C3%97%20DATA%20%C3%97%20CRM&descSize=15&descAlignY=70&descColor=8FB8DE" width="100%" alt="Luis Cabrera" />
 
-Software engineer at P&G. I build AI agents and the software around them. Based in Warsaw.
+<br/>
 
-### Now
+<a href="https://luiscabrera.me">
+  <img src="https://img.shields.io/badge/Website-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://www.linkedin.com/in/luisecab/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-- **Software Engineer, Messaging & CRM, Pampers Data Platform** at P&G (2025–present).
-- Building and running my own AI agent, Hermes, on a Hetzner server.
-- Getting closer to implementation details and the technical foundations of agentic frameworks.
+</div>
 
-### Agents and Projects
+<br/>
 
-**Hermes**
-My current personal AI agent. It runs on a Hetzner server.
+> ### I build AI agents and the software around them.
 
-**Multi-agent architecture**
-An 11-agent system adapted from the My-Brain-Is-Full-Crew framework, combining reused agents with custom devops and researcher agents. Tasks are routed across local Ollama models, OpenAI access, and the Anthropic API when harder reasoning is needed.
+Software engineer at **P&G**, based in **Warsaw, Poland**.
 
-**Other experiments**
+I work on messaging and CRM data platforms by day, and run my own agent infrastructure the rest of the time, getting closer to the implementation details and technical foundations of agentic frameworks.
 
-- **Polymarket betting agent:** Python, Docker Compose, and `py-clob-client`, starting with paper trading.
-- **Autonomous coding loops:** Claude Code CLI workflows controlled from mobile through SSH and tmux.
-- **FotoSeller:** AI product photography pipeline for MercadoLibre and Amazon sellers using Gemini, Ideogram, and Claude Vision.
+---
 
-**Retired:** Clawdbot (WhatsApp AI assistant) and Portal Trax (Android app experiment).
+## 01 · Now
 
-### Experience
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **P&G:** Software Engineer, Messaging & CRM, Pampers Data Platform (2025–present)
-- **P&G:** IT Product Manager, Media Optimization (2024–2025)
-- **P&G:** Initiative Operations Project Leader, Braun (2022–2024)
-- **SGH Warsaw School of Economics:** MSc, Big Data & Advanced Analytics (2025)
+### Messaging & CRM
 
-### Tools
+Software Engineer at P&G, working on lifecycle messaging and the data behind it.
 
-- **Agents and AI:** Ollama, OpenAI and Anthropic APIs, Claude Code.
-- **Data:** SQL, BigQuery, GCP, Power BI, APIs.
-- **Messaging and CRM:** Braze, Segment, lifecycle messaging.
-- **Infra:** Node.js, Python, Docker Compose, PM2, Tailscale, Cloudflare Tunnel.
+`Braze` `Segment` `BigQuery` `GCP`
 
-### Ask Me About
+</td>
 
-- AI agents and local LLM workflows.
-- CRM and messaging data platforms.
-- Career pivots, resilience, and building momentum after hard resets.
+<td width="50%" valign="top">
 
-### Connect
+### Personal Agents
 
-- [LinkedIn](https://www.linkedin.com/in/luisecab/)
-- [luiscabrera.me](https://luiscabrera.me)
+Building and running **Hermes**, my own AI agent, on a Hetzner server.
 
-Brain tumor survivor.
+`Node.js` `Python` `PM2` `Tailscale`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### Mobile
+
+Building mobile apps with Flutter and Dart.
+
+`Flutter` `Dart`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 02 · Agents & Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `Hermes`
+
+**Personal AI agent · active**
+
+My current personal agent, self-hosted on a Hetzner server.
+
+`Hetzner` `Node.js` `PM2` `Cloudflare Tunnel`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `Multi-agent crew`
+
+**11-agent system · active**
+
+Adapted from the My-Brain-Is-Full-Crew framework, combining reused agents with custom devops and researcher agents.
+
+`Ollama` `OpenAI API` `Anthropic API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `Polymarket agent`
+
+**Betting agent · paper trading**
+
+Starting with paper trading before anything live.
+
+`Python` `Docker Compose` `py-clob-client`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `FotoSeller`
+
+**AI product photography · experiment**
+
+Image pipeline for MercadoLibre and Amazon sellers.
+
+`Gemini` `Ideogram` `Claude Vision`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### `Autonomous coding loops`
+
+Claude Code CLI workflows controlled from mobile through SSH and tmux.
+
+`Claude Code` `SSH` `tmux`
+
+</td>
+</tr>
+</table>
+
+<sub>Retired: Clawdbot (WhatsApp AI assistant) · Portal Trax (Android app experiment)</sub>
+
+### How the crew routes work
+
+```mermaid
+flowchart LR
+    T[Task] --> R{Router}
+    R -->|everyday work| O[Local Ollama models]
+    R -->|general API access| A[OpenAI API]
+    R -->|harder reasoning| C[Anthropic API]
+```
+
+---
+
+## 03 · Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,nodejs,docker,gcp,cloudflare,linux" alt="Stack" />
+
+### Agents & AI
+
+`Ollama` · `OpenAI API` · `Anthropic API` · `Claude Code`
+
+### Data
+
+`SQL` · `BigQuery` · `GCP` · `Power BI` · `APIs`
+
+### Messaging & CRM
+
+`Braze` · `Segment` · `Lifecycle messaging`
+
+### Mobile
+
+`Flutter` · `Dart`
+
+### Infra
+
+`Docker Compose` · `PM2` · `Tailscale` · `Cloudflare Tunnel`
+
+</div>
+
+---
+
+## 04 · Career
+
+```text
+2025 — now   P&G     Software Engineer, Messaging & CRM
+2024 — 2025  P&G     IT Product Manager, Media Optimization
+2022 — 2024  P&G     Initiative Operations Project Leader, Braun
+```
+
+**SGH Warsaw School of Economics**
+MSc, Big Data & Advanced Analytics (2025)
+
+---
+
+## 05 · Ask Me About
+
+`AI agents` · `local LLM workflows` · `CRM & messaging data platforms`
+
+**Career pivots, resilience, and building momentum after hard resets.** I'm a brain tumor survivor.
+
+---
+
+## 06 · Let's Connect
+
+<div align="center">
+
+<a href="https://luiscabrera.me">
+  <img src="https://img.shields.io/badge/Website-0D1B2A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://www.linkedin.com/in/luisecab/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+<sub>Building agents that do real work.</sub>
+
+</div>
