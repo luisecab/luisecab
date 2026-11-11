@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img src="assets/banner-dark.svg" width="100%" alt="Luis Cabrera — Software Engineer | AI agents × mobile × data" />
+  <img src="assets/banner-dark.svg" width="100%" alt="Luis Cabrera — Software foundations for the agentic era" />
 </picture>
 
 <br/>
@@ -22,15 +22,65 @@
 
 <br/>
 
-> ### From product to software & agentic engineering.
+> ### Building the software foundations for the agentic era.
 
 Product-minded software engineer at **P&G**, based in **Warsaw, Poland**.
 
-I started in operations and product across Mexico, moved from defining products to building them in 2025, and now build and orchestrate teams of AI agents. What drives me: AI systems that are reliable, testable, and affordable enough to solve real problems every day.
+I went from defining products to building them in 2025. Now I'm going deep on what sits underneath agents: how LLMs behave, how agent harnesses are built, and how to make agentic systems reliable, testable, and affordable enough to solve real problems every day.
 
 ---
 
-## 01 · Now
+## 01 · Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Agent Harnesses
+
+The loop around the model: tools, context, memory, permissions, and control.
+
+**In practice:** Hermes, autonomous Claude Code loops.
+
+</td>
+
+<td width="50%" valign="top">
+
+### LLMs
+
+Local versus API models, routing by cost and difficulty, and knowing what each model is good at.
+
+**In practice:** Ollama, OpenAI, Anthropic, and Grok in real workloads.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Multi-Agent Orchestration
+
+Roles, handoffs, and routing across a team of agents.
+
+**In practice:** an 11-agent crew with custom devops and researcher agents.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Software Fundamentals
+
+Production code, tests, code review, APIs, reliability, and performance.
+
+**In practice:** mobile engineering with Flutter and Dart at P&G.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 02 · Now
 
 <table>
 <tr>
@@ -60,7 +110,7 @@ My company. AI agents for traditional businesses, plus websites and MCP servers 
 
 ### Agentic Engineering
 
-Running **Hermes** and an 11-agent crew on my own infrastructure. Details in 02.
+Running **Hermes** and an 11-agent crew on my own infrastructure. Details in 03.
 
 </td>
 </tr>
@@ -68,7 +118,7 @@ Running **Hermes** and an 11-agent crew on my own infrastructure. Details in 02.
 
 ---
 
-## 02 · Agents & Projects
+## 03 · Agents & Projects
 
 <table>
 <tr>
@@ -124,19 +174,31 @@ Starting with paper trading before anything live.
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### `Autonomous coding loops`
+
+**Agent harness · active**
 
 Claude Code CLI workflows controlled from mobile through SSH and tmux.
 
 `Claude Code` `SSH` `tmux`
 
 </td>
+
+<td width="50%" valign="top">
+
+### `Grok bots`
+
+**Bots on xAI's Grok · active**
+
+Bots built on xAI's Grok models.
+
+`Grok` `xAI API`
+
+</td>
 </tr>
 </table>
-
-<sub>Retired: Clawdbot (WhatsApp AI assistant) · Portal Trax (Android app experiment)</sub>
 
 ### How the crew routes work
 
@@ -150,7 +212,7 @@ flowchart LR
 
 ---
 
-## 03 · Stack
+## 04 · Stack
 
 <div align="center">
 
@@ -165,7 +227,7 @@ flowchart LR
 
 ### Agents & AI
 
-`Ollama` · `OpenAI API` · `Anthropic API` · `Gemini` · `Claude Code` · `MCP`
+`Ollama` · `OpenAI API` · `Anthropic API` · `Grok (xAI)` · `Gemini` · `Claude Code` · `MCP`
 
 ### Web
 
@@ -189,7 +251,7 @@ flowchart LR
 
 ---
 
-## 04 · Career
+## 05 · Career
 
 ```text
 2025 — now   P&G               Software Engineer, Mobile (Flutter/Dart)
@@ -202,19 +264,27 @@ flowchart LR
 **SGH Warsaw School of Economics** · MSc Big Data & Advanced Analytics (2023 — 2025)<br/>
 **National Polytechnic Institute** · BS Industrial Engineering (2013 — 2018)
 
-<sub>Hackathon: Junction 2025, Espoo, Finland</sub>
+---
+
+## 06 · Retired & Hackathons
+
+| | What it was |
+| :-- | :-- |
+| **Clawdbot** · retired | WhatsApp AI assistant |
+| **Portal Trax** · retired | Android app experiment |
+| **[Junction 2025](https://www.hackjunction.com/)** · participant | Hackathon in Espoo, Finland. Theme: Utopia & Dystopia |
 
 ---
 
-## 05 · Ask Me About
+## 07 · Ask Me About
 
-`AI agents` · `Flutter & Dart` · `local LLM workflows` · `CRM & messaging platforms`
+`agent harnesses` · `AI agents` · `local LLM workflows` · `Flutter & Dart` · `CRM & messaging platforms`
 
 **Career pivots, resilience, and building momentum after hard resets.** I'm a brain tumor survivor.
 
 ---
 
-## 06 · Let's Connect
+## 08 · Let's Connect
 
 <div align="center">
 
